@@ -1,0 +1,36 @@
+id: I34A45FA5
+source: https://sakyaresearch.org
+source_file: null
+initial_creation_type: input
+imported: '2022-06-19T01:10:07.663403'
+last_modified: '2022-06-19T01:10:07.663418'
+parser: null
+source_metadata:
+  title: Hagiography of Sa skya lo tstshā ba Jam pai rdo rje (1485–1533)
+  author: འཇམ་མགོན་ཨ་མེས་ཞབས།
+  description: 'Digital version 2.0 {Tibetan}; master xml (completed: 2013-05-22);
+    converted from external file, unrevised, no thematic TEI markup'
+  file_info:
+  - 'Language: Tibetan'
+  - 'Coverage: Full Text'
+  - 'Accessible: publicly'
+  responibilities:
+  - Digital edition:ས་སྐྱ་ཞིབ་འཇུག་ཁང་། (src)
+  - Text input:Guru Lama, Sachen International, Kathmandu (Nepal) (si)
+  - Editorial process:བསམ་གྲུབ། (Dharamsala) (sdr), Mathias Fermer (mf)
+  - TEI Encoding:ས་སྐྱ་ཞིབ་འཇུག་ཁང་།
+  - TEI Markup:-
+  - Revisions/Corrections:བསམ་གྲུབ།
+  text_witnesses: https://sakyaresearch.org/sources/2594
+  bases:
+    6aef:
+      title: Hagiography of Sa skya lo tstshā ba Jam pai rdo rje (1485–1533)
+      order: 1
+      base_file: 6aef.txt
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
